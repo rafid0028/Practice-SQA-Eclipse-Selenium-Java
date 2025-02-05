@@ -119,6 +119,8 @@ public class Main {
 3. There should be a pop up chrome browser with Google homepage and one minimized facebook homepage.
 4. The console will display title verification results.
 
+P.S: SHOULD WORK FINE IN ANY OTHER IDEs, tested on Intellij Community Edition. Just unzip and run the Main.java file.
+
 ## **Expected Output (Sample)**
 ```
 Google
